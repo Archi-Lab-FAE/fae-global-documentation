@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Globale Beispiel Entscheidung
+title: Beispiel Richtlinie
 author: Jann
-categories: global
+categories: guide
 ---
 
 This is the first step in any method to implement Jekyll Categories or Jekyll Tags. Decide what categories you want. It is better to have fewer categories. As shown in the example below, add categories: front matter to all the posts according to their content.
