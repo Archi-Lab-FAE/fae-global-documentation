@@ -17,9 +17,9 @@ Die Metadaten müssen an oberester Stelle innerhalb der Datei stehen.
 ```
 ---
 layout: post
-title: Titel (Dieser muss nicht der gleiche wie der Dateiname sein!)
-author: DER JEWEILIGE NAME (optional)
-categories: global (Weiter Optionen sind weiter unten genannt!)
+title: Der Titel //Dieser muss nicht der gleiche wie der Dateiname sein!
+author: Der jeweilige Name des Autors //optional
+categories: global //Weiter Optionen sind weiter unten genannt!
 ---
 ```
 
