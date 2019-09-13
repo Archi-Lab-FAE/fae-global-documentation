@@ -1,37 +1,33 @@
 # fae-global-documentation
+The repository contains all global, open, guiding decisions and all glossary entries.
 
-In diesem Repository sollen alle globalen und offenen Entscheidungen, das Glossar, sowie die Richtlinien (Guides) dokumentiert werden.
+## Usage
+To create a new decision or glossary entry you have to create a new markdown file. This filename must equal a spefici pattern, that is described in the following:
 
-## Benutzung
-Um einen neuen Eintrag zu erstellen legt zu aller erst eine Markdown-Datei nach dem folgendnen Template an.
-
-Dateiname: DD-MM-YYYY-TITEL.md
+```
+Filename: DD-MM-YYYY-TITLE.md
 Beispiel: 12-09-2019-Beispiel.md
+```
+Each filename title must be unique!
+Afterward, you can edit your decision. On top you have to privde some metadata for the Jekyll server.
+The metadata must be as the following template: 
 
-Achtung: jeder Titel muss einzigartig sein, sodass die Datei immer gefunden wird. 
-
-Nachdem ihr die Datei angelegt habt, braucht der Server noch ein paar Metadaten um den Eintrag richtig zuzuordnen. 
-Die Metadaten müssen an oberester Stelle innerhalb der Datei stehen.
-
-### Metadaten
+### Metadata
 ```
 ---
 layout: post
-title: Der Titel //Dieser muss nicht der gleiche wie der Dateiname sein!
-author: Der jeweilige Name des Autors //optional
-categories: global //Weiter Optionen sind weiter unten genannt!
+title: title of your decision //must not be the same as your filename!
+author: the athorsname //optional
+categories: global //Further valid options are shown in the following list!
 ---
 ```
 
 
 ### Nutzbare Kategorien
- - global <-- Globale Entscheidung
- - open <-- Offene Entscheidung
- - guide <-- Richtlinie
- - glossary <-- Glossary
+ - global <-- global decisions
+ - open <-- open decisions
+ - guide <-- guiding decisions
+ - glossary <-- glossary
 
- Bitte wählt je nach Eintrag die richtig Kategorie aus.
-
-
-Folgend auf diese Metadaten kommt nun der eigentliche Inhalt.
-Sobald ihr einen Eintrag committed und pushed, wird der Server aktualisiert und stellt den neuen Eintrag bereit.
+Please choose the category carefully and based on your task!
+Next to these metadata you can finally add your decision text.
