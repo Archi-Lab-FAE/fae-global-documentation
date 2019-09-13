@@ -2,7 +2,7 @@
 layout: post
 title: B - Beispiel Glossar Eintrag
 author: Jann
-categories: glossar
+categories: glossary
 ---
 
 ### Definition:
