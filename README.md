@@ -5,8 +5,8 @@ The repository contains all global, open, guiding decisions and all glossary ent
 To create a new decision or glossary entry you have to create a new markdown file. This filename must equal a spefici pattern, that is described in the following:
 
 ```
-Filename: DD-MM-YYYY-TITLE.md
-Beispiel: 12-09-2019-Beispiel.md
+Filename: YYYY-MM-DD-TITLE.md
+Beispiel: 2019-09-13-Beispiel.md
 ```
 Each filename title must be unique!
 Afterward, you can edit your decision. On top you have to privde some metadata for the Jekyll server.
