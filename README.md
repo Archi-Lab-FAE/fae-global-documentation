@@ -28,7 +28,7 @@ categories: global //Weiter Optionen sind weiter unten genannt!
  - global <-- Globale Entscheidung
  - open <-- Offene Entscheidung
  - guide <-- Richtlinie
- - glossar <-- Glossar
+ - glossary <-- Glossary
 
  Bitte wählt je nach Eintrag die richtig Kategorie aus.
 
