@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bounded Context
-author: Jann Deterling
+author: Jann Intveen
 categories: glossary
 ---
 
