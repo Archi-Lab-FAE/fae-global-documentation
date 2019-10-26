@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Domain Vision Statement
+title: Domain Model
 author: Stefan Bente
 categories: glossary
 ---
