@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nachricht
+title: Notfall
 author: Team 3
 categories: glossary
 ---
