@@ -19,3 +19,8 @@ Nachdem eine Person das GPS Tracking verwenden möchte werden die wichtigen Orte
 Es können Knöpfe vom Heim an bestimmte Orte oder an bestimmte Personen verteilt werden, damit diese bei Verdacht auf benötigte Hilfe für die Person, das Heim und die zugehörigen Personen mit einem Klick auf den Knopf benachrichtigen können.
 
 Diese Knöpfe müssen vorher im System erfasst werden.
+
+#### Anmerkung SB 15.11. (bitte nach Bearbeitung löschen)
+
+Das gehört nicht ins Glossar, sondern in das Wiki Ihres Teams (fae-team1-documentation)
+
