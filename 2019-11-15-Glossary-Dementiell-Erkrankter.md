@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dementiell erkrankter
+title: Demenziell erkrankter
 author: Team1
 categories: glossary
 ---
