@@ -6,4 +6,4 @@ categories: glossary
 ---
 ### Definition:
 
-GPS-Daten des [Positionssenders](https://github.com/Archi-Lab-FAE/fae-global-documentation/blob/master/2019-11-15-Glossary-Positionssender.md) oder der [Zone](https://github.com/Archi-Lab-FAE/fae-global-documentation/blob/master/2019-11-15-Glossary-Zone.md).
+GPS-Daten des [Positionssenders](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-Positionssender.html) oder der [Zone](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-Zone.html).
