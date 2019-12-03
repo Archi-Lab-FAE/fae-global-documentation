@@ -6,9 +6,6 @@ categories: glossary
 ---
 
 ### Definition:
-Die Person, die sich um den [demenziell Erkrankten](https://github.com/Archi-Lab-FAE/fae-global-documentation/blob/master/2019-11-15-Glossary-Dementiell%20erkrankter.md) kümmert (Bei Notfällen).
 
-## Kommentar SB 29.11. (bitte nach Bearbeitung löschen)
-* Was genau heißt "kümmern"?
-* gibt es eine oder mehrere Kontaktpersonen? Wie wird ermittelt, wer davon sich kümmert?
-* "Notfall" heißt hier "Ausnahmesituation"
+Kontaktpersonen sind vertraute Personen und gesetzliche Betreuer, die der demenziell Erkrankten zugeordnet werden und deren Einverständniserklärung vorhanden ist. Wenn ein Alarmknopf betätigt wurde, werden diese Kontaktpersonen informiert, damit diese sich in Ausnahmesituationen um den demenziell Erkrankten kümmern und ihn beispielsweise abholen. 
+Wenn mehr als nur eine Kontaktperson einem demenziell Erkrankten zugeordnet ist, wird zuerst die Kontaktperson informiert, die erreichbar ist. Die Erreichbarkeit wird anhand des im System eingetragenen Datums bestimmt. 
