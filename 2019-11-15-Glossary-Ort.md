@@ -6,11 +6,4 @@ categories: glossary
 ---
 
 ### Definition:
-Ort kann zum Beispiel Bäckerei, Arztpraxis oder ähnliches sein.
-
-## Kommentar SB 29.11. (bitte nach Bearbeitung löschen)
-
-"Ort" ist ein ziemlich generischer Name, und die Beschreibung ist noch sehr unspezifisch. 
-* ist das immer drinnen, oder geht auch draußen?
-* kann alles ein "Ort" sein? 
-* Gibt es einen Prozess, um zu einem "Ort" zu werden? Muss es ja, weil irgendwer da irgendwas installiert ...
+Die für die demenziell Erkrankten wichtigen beziehungsweise häufig besuchte Orte, wie beispielsweise Bäckereien, Arztpraxis, werden als Ort bezeichnet. Diese werden bei der Registrierung des demenziell Erkrankten angegeben. Alle häufig besuchten Orte sollten einen Alarmknopf besitzen, damit die Kontaktpersonen bei Ausnahmesituationen informiert werden können.
