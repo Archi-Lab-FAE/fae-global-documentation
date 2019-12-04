@@ -6,4 +6,4 @@ categories: glossary
 ---
 
 ### Definition:
-Ein Positionssender, dass sich im Schuh der [demenziell erkrankten Person](https://github.com/Archi-Lab-FAE/fae-global-documentation/blob/master/2019-11-15-Glossary-Dementiell%20erkrankter.md) befindet.
+Ein Positionssender, dass sich im Schuh der [demenziell Erkrankten](https://fae.archi-lab.io/glossary/2019/11/15/Glossary-dementiell-Erkrankter.html) befindet.
